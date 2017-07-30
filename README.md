@@ -1,0 +1,1 @@
+This app is previous version with some new feature like trailer of movie
